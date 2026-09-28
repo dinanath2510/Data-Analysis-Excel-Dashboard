@@ -1,2 +1,4 @@
-# Data-Analysis-Excel-Dashboard
-FNP Sales Analysis Dashboard is an interactive Power BI dashboard analyzing orders, revenue, customer spending, delivery time, products, categories, occasions, cities, and monthly trends. Built using Power BI, Excel, Power Query, DAX, and data visualization to deliver actionable sales insights.
+# FNP-Sales-Data-Analysis (Interactive Dashboard Creation using MS Excel)
+## Project Objective
+To build an interactive Excel dashboard that analyzes FNP sales data and provides insights into revenue, orders, customer spending, delivery time, product and category performance, occasions, cities, and monthly sales trends for data-driven decision-making.
+
