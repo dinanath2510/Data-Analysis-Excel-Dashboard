@@ -30,5 +30,20 @@ specific occasions
 
 <img width="1865" height="756" alt="sales excel projject screenshot" src="https://github.com/user-attachments/assets/579bda58-eefe-41b0-8851-7cfcb50c994e" />
 
+## Project Insight
+- The dashboard shows 1,000 total orders and approximately ₹35.21 lakh in total revenue.
+- Anniversary and Raksha Bandhan generate relatively high revenue compared with several other occasions.
+- The Colors and Plants categories contribute significantly to overall revenue.
+- The top 5 products help identify the products generating the highest sales revenue.
+- The city-wise analysis highlights the cities with the highest order activity.
+- Monthly and hourly charts show variations in sales performance over time, helping identify periods of higher and lower activity.
+- The dashboard also provides an overview of average delivery time (5.53 days) and average customer spending (₹3,520.98).
+
+## Final Conclusion
+The FNP Sales Analysis Dashboard provides a consolidated view of sales performance using Excel. It helps identify revenue trends, popular products and categories, high-performing occasions and cities, customer spending patterns, and delivery performance. These insights can support better sales monitoring, product planning, and business decision-making.
+
+
+
+
 
 
